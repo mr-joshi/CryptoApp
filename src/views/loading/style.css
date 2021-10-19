@@ -1,0 +1,26 @@
+
+ .svgstyleloadinganimation {
+    position: absolute;
+    width: 200px;
+    height: 80px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+  }
+  
+  #plug,
+  #socket {
+    fill: #2196f3;
+  }
+  
+  #loop-normal {
+    fill: none;
+    stroke: #455a64;
+    stroke-width: 12;
+  }
+  #loop-offset {
+    display: none;
+  }
+  
